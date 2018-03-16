@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Nicola Blog
+email: nicolar.bell@gmail.com
+description: It's a test blog woo
+baseurl: "/nicola-party"
+twitter_username: nicolardesign
+avatar: "https://pbs.twimg.com/profile_images/890479859079798784/IEYZDBwr_400x400.jpg" # Set footer avatar
 paginate: 3
 
 # Build settings
